@@ -8,3 +8,5 @@ Our first collaborative repository
 3. [Creating an issue](https://github.com/tonyfast/our-repository/issues).
 
   > Issues ask questions and propose solutions to the code base.
+  
+4. Make a new branch
