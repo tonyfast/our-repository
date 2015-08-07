@@ -10,3 +10,5 @@ Our first collaborative repository
   > Issues ask questions and propose solutions to the code base.
   
 4. Make a new branch
+
+git checkout -b es
